@@ -40,3 +40,12 @@ body
     font-weight: bold;
     box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 2);
 }
+
+#footer
+{
+    background: cornflowerblue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 0.5em;
+}

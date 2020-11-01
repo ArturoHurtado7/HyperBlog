@@ -49,3 +49,13 @@ body
     font-weight: bold;
     padding: 0.5em;
 }
+
+#horses 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 2em;
+    text-align: center;
+}

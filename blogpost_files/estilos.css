@@ -19,11 +19,17 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 16px;
+    padding: 1em;
 }
 
 #header
 {
-    color: cornflowerblue;
-    font-size: 12px;
+    background-color: midnightblue;
+    color: lavender;
+    text-align: center;
+    font-size: 20px;
+    padding: 1em;
+    font-weight: bold;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 2);
 }
